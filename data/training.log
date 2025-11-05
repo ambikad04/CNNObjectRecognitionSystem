@@ -1,0 +1,53 @@
+2025-05-14 16:32:05,714 - INFO - Using device: cpu
+2025-05-14 16:32:05,718 - INFO - Training dataset size: 3
+2025-05-14 16:32:05,718 - INFO - Validation dataset size: 2
+2025-05-14 16:32:06,256 - INFO - 
+Epoch 1/10
+2025-05-14 16:33:15,999 - INFO - Using device: cpu
+2025-05-14 16:33:16,015 - INFO - Training dataset size: 8
+2025-05-14 16:33:16,015 - INFO - Validation dataset size: 2
+2025-05-14 16:33:16,500 - INFO - 
+Epoch 1/10
+2025-05-14 16:34:12,477 - INFO - Training Loss: 0.7469
+2025-05-14 16:34:12,477 - INFO -   loss_classifier: 0.4457
+2025-05-14 16:34:12,477 - INFO -   loss_box_reg: 0.1166
+2025-05-14 16:34:12,477 - INFO -   loss_objectness: 0.1597
+2025-05-14 16:34:12,477 - INFO -   loss_rpn_box_reg: 0.0249
+2025-05-14 16:37:13,414 - INFO - Using device: cpu
+2025-05-14 16:37:13,414 - INFO - Training dataset size: 6
+2025-05-14 16:37:13,414 - INFO - Validation dataset size: 2
+2025-05-14 16:37:13,930 - INFO - 
+Epoch 1/5
+2025-05-14 16:42:50,508 - INFO - Using device: cpu
+2025-05-14 16:42:50,523 - INFO - Training dataset size: 6
+2025-05-14 16:42:50,523 - INFO - Validation dataset size: 2
+2025-05-14 16:42:51,244 - INFO - 
+Epoch 1/5
+2025-05-14 16:44:36,065 - INFO - Using device: cpu
+2025-05-14 16:44:36,065 - INFO - Training dataset size: 3
+2025-05-14 16:44:36,065 - INFO - Validation dataset size: 1
+2025-05-14 16:44:36,517 - INFO - 
+Epoch 1/5
+2025-05-14 16:44:52,138 - INFO - Training Loss: 0.4645
+2025-05-14 16:44:52,138 - INFO -   loss_classifier: 0.2437
+2025-05-14 16:44:52,138 - INFO -   loss_box_reg: 0.1159
+2025-05-14 16:44:52,138 - INFO -   loss_objectness: 0.0927
+2025-05-14 16:44:52,138 - INFO -   loss_rpn_box_reg: 0.0122
+2025-05-14 16:45:34,882 - INFO - Using device: cpu
+2025-05-14 16:45:34,882 - INFO - Training dataset size: 3
+2025-05-14 16:45:34,882 - INFO - Validation dataset size: 1
+2025-05-14 16:45:35,319 - INFO - 
+Epoch 1/5
+2025-05-14 16:45:53,967 - INFO - Training Loss: 0.6546
+2025-05-14 16:48:20,805 - INFO - Using device: cpu
+2025-05-14 16:48:20,805 - INFO - Training dataset size: 3
+2025-05-14 16:48:20,805 - INFO - Validation dataset size: 1
+2025-05-14 16:48:21,322 - INFO - 
+Epoch 1/5
+2025-05-14 16:48:45,059 - INFO - Training Loss: 0.8016
+2025-05-14 16:54:21,791 - INFO - Using device: cpu
+2025-05-14 16:54:21,807 - INFO - Training dataset size: 3
+2025-05-14 16:54:21,807 - INFO - Validation dataset size: 1
+2025-05-14 16:54:22,386 - INFO - 
+Epoch 1/5
+2025-05-14 16:54:49,587 - INFO - Training Loss: 0.4888

@@ -1,0 +1,36 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "file_name": "val_phone1.jpg",
+            "width": 640,
+            "height": 480
+        },
+        {
+            "id": 2,
+            "file_name": "val_phone2.jpg",
+            "width": 640,
+            "height": 480
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [120, 130, 190, 290]
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [180, 150, 210, 310]
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "phone"
+        }
+    ]
+} 
