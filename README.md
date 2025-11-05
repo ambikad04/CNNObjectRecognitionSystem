@@ -1,4 +1,4 @@
-# Real-Time Object Detection System
+# Real-Time Object Detection System with CNN
 
 This project implements a real-time object detection system using PyTorch and CNNs. The system performs object detection, segmentation, and recognition in real-time using a webcam feed.
 
